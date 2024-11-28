@@ -1,10 +1,55 @@
 <h1>Kniffel-Regeln</h1>
 
 Die Kniffel Spielregeln entnehmen Sie bitte diesem Video: https://www.youtube.com/watch?v=J0mRzX5cMF8
+# Zusammenfassung der Kniffel-Regeln aus dem Video
 
-Die einzige Regel, welche in unserer Version von Kniffel nicht gilt:
-Es gibt keine Bonuspunkte für erneute Kniffel-Würfe.
-Dies soll einen erhöhten Fokus auf mehrfahre Kniffel-Würfe verhindern und den Fokus mehr auf Variität in den Strategien legen.
+Kniffel ist ein Würfelspiel, das für zwei oder mehr Spieler geeignet ist. Ziel des Spiels ist es, durch geschicktes Würfeln und kluges Eintragen von Kombinationen im Spielblock möglichst viele Punkte zu erzielen.
+
+## Spielmaterial
+- 5 Würfel
+- Würfelbecher
+- Spielblock (oder alternative Punktetabelle)
+- Stift
+
+## Ablauf des Spiels
+
+### 1. Würfelphase
+- Jeder Spieler hat pro Runde **drei Würfe**.
+- Nach jedem Wurf darf der Spieler entscheiden, welche Würfel er behält und welche erneut geworfen werden.
+- Nach dem dritten Wurf muss der Spieler eine Kombination wählen und diese im Spielblock eintragen.
+
+### 2. Kombinationen
+Der Spielblock ist in zwei Kategorien unterteilt:
+
+#### **Obere Hälfte**
+In der oberen Hälfte geht es um die Summe bestimmter Zahlen:
+- **Einsen**: Summe aller gewürfelten Einsen
+- **Zweien**: Summe aller gewürfelten Zweien
+- ... bis zu **Sechsen**
+
+*Bonus*: Erreicht der Spieler mindestens 63 Punkte in der oberen Hälfte, erhält er einen Bonus von 35 Punkten.
+
+#### **Untere Hälfte**
+In der unteren Hälfte gibt es spezielle Kombinationen mit festen Punktwerten:
+- **Dreierpasch**: Summe aller Würfel, wenn mindestens drei gleiche Zahlen gewürfelt wurden.
+- **Viererpasch**: Summe aller Würfel, wenn mindestens vier gleiche Zahlen gewürfelt wurden.
+- **Full House**: 25 Punkte (drei gleiche und zwei gleiche Würfel).
+- **Kleine Straße**: 30 Punkte (vier aufeinanderfolgende Zahlen).
+- **Große Straße**: 40 Punkte (fünf aufeinanderfolgende Zahlen).
+- **Kniffel**: 50 Punkte (fünf gleiche Würfel).
+- **Chance**: Summe aller Würfel, frei wählbar.
+
+### **Die einzige Regel, welche in unserer Version von Kniffel nicht gilt:**
+**Es gibt keine Bonuspunkte für erneute Kniffel-Würfe.
+Dies soll einen erhöhten Fokus auf mehrfahre Kniffel-Würfe verhindern und den Fokus mehr auf Variität in den Strategien legen.**
+
+### 3. Punktewertung
+- Jede Kombination kann nur einmal pro Spiel verwendet werden.
+- Kann eine Kombination nicht erfüllt werden, muss ein Feld gestrichen werden (Punkte = 0).
+
+### 4. Spielende
+Das Spiel endet, wenn alle Felder im Block gefüllt sind, nach zuvor festgelegter Anzahl Runden. Der Spieler mit der höchsten Punktzahl gewinnt.
+
 
 <h1>Die Spiel-Files</h1>
 
